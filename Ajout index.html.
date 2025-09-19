@@ -1,1 +1,57 @@
 
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Téléphone Rose</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="script.js" defer></script>
+</head>
+<body>
+  <header>
+    <div class="container">
+      <h1>Bienvenue chez <span class="highlight">Zahia</span></h1>
+      <nav>
+        <ul>
+          <li><a href="index.html">Accueil</a></li>
+          <li><a href="services.html">Services</a></li>
+          <li><a href="tarifs.html">Tarifs</a></li>
+          <li><a href="contact.html">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <section class="hero">
+    <div class="container">
+      <h2>L'art de la conversation privée et raffinée</h2>
+      <p>Vivez une expérience unique avec nos téléphonistes expertes et découvrez le charme discret de Zahia.</p>
+      <a href="contact.html" class="btn">Réservez votre appel</a>
+    </div>
+  </section>
+
+  <section class="presentation">
+    <div class="container">
+      <h2>Rencontrez Zahia</h2>
+      <div class="profile">
+        <img src="zahia.jpg" alt="Zahia, téléphoniste de confiance">
+        <p>Zahia est notre experte principale, spécialisée dans les conversations intimes, sensuelles mais respectueuses. Avec elle, chaque appel devient un moment inoubliable, personnalisé et confidentiel.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="cta">
+    <div class="container">
+      <h2>Prêt(e) pour un moment unique ?</h2>
+      <a href="contact.html" class="btn">Contactez-nous maintenant</a>
+    </div>
+  </section>
+
+  <footer>
+    <div class="container">
+      <p>&copy; 2025 Téléphone Rose. Tous droits réservés.</p>
+    </div>
+  </footer>
+</body>
+</html>
